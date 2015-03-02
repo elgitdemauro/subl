@@ -1,4 +1,0 @@
-[
-	{ "keys": ["alt+super+p"], "command": "autoprefixer" },
-	{ "keys": ["shift+super+r"], "command": "reindent"} 
-]
