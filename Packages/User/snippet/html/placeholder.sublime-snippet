@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+placeholder="${1:this}"
+]]></content>
+	<tabTrigger>aph</tabTrigger>
+</snippet>
